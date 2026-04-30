@@ -8,7 +8,7 @@
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://https://github.com/cauanbarbosa">
+  <a href="https://github.com/cauanbarbosa">
     <img src="https://img.shields.io/badge/GitHub-cauanbarbosa-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/eucauanbarbosa?igsh=ZW5obmpmNDZ3M3Rn&utm_source=qr">
