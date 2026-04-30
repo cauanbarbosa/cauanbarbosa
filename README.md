@@ -8,11 +8,11 @@
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://https://github.com/cauanbarbosa">
     <img src="https://img.shields.io/badge/GitHub-cauanbarbosa-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@eucauanbarbosa?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/eucauanbarbosa?igsh=ZW5obmpmNDZ3M3Rn&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-@eucauanbarbosa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
