@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-cauanbarbosa-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@eucauanbarbosa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@eucauanbarbosa?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
